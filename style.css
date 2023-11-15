@@ -1,0 +1,50 @@
+img {
+   max-width: 100%;
+   height: 90%;
+}
+.img{
+    width: 50%;
+}
+.text{
+    width: 50%;
+}
+.raper{
+    width: 960;
+    margin: 0 auto;
+    display: flex;
+}
+.text h4{
+    text-transform: uppercase;
+    font-size: 22px;
+}
+.text h1{
+    font-size: 58px;
+    font-weight: bold;
+}
+.text p{
+    font-style: italic;
+    font-size: 20px;
+}
+.btn{
+    text-transform: uppercase;
+    text-shadow: 2px;
+    background: red;
+    border: none;
+    font-weight: bold;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+    padding: 10px, 15px;
+   
+}
+.btn:hover{
+    background: rgb(99, 85, 110);
+}
+
+    
+
+
+
+
+
